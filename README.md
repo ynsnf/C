@@ -20,6 +20,7 @@
 | ![add.c](https://github.com/ynsnf/C/blob/main/add.c) | Addition of Two numbers |
 | ![area.c](https://github.com/ynsnf/C/blob/main/area.c) | Area of Circle,Triangle,Rectangle and Square |
 | ![arithmetic.c](https://github.com/ynsnf/C/blob/main/arithmetic.c) | Basic Arithmetic Operations |
+| ![fact.c](https://github.com/ynsnf/C/blob/main/fact.c) | Factorial of a Number |
 | ![helloworld.c](https://github.com/ynsnf/C/blob/main/helloworld.c) | Hello World |
 
 
